@@ -1,0 +1,22 @@
+﻿<Window x:Class="CheckBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label FontWeight="Bold"> Pizza Topings</Label>
+        <CheckBox Name="cbAllTopings" IsThreeState="True" Checked="cbAllCheckedChanged" Unchecked="cbAllCheckedChanged"></CheckBox>
+        <StackPanel Margin="10">
+            <CheckBox Name="cbSalani" Checked="cbSingleCheckedChnged" Unchecked="cbSingleCheckedChnged">
+            <TextBlock>
+                Salni <Run Foreground="Red" FontWeight="Bold">Spicy</Run>
+            </TextBlock>
+            </CheckBox>
+            <CheckBox Name="cbMushrooms" Checked="cbSingleCheckedChnged" Unchecked="cbSingleCheckedChnged">Mushrooms</CheckBox>
+            <CheckBox Name="cbMozzarella" Checked="cbSingleCheckedChnged" Unchecked="cbSingleCheckedChnged">Mozzarella</CheckBox>
+        </StackPanel>
+    </StackPanel>
+</Window>
