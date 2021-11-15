@@ -1,0 +1,15 @@
+C:\Users\shivam.chauhan\source\repos\lists\lists\bin\Debug\lists.exe.config
+C:\Users\shivam.chauhan\source\repos\lists\lists\bin\Debug\lists.exe
+C:\Users\shivam.chauhan\source\repos\lists\lists\bin\Debug\lists.pdb
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\lists.csproj.AssemblyReference.cache
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\MainWindow.g.cs
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\App.g.cs
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\lists_MarkupCompile.cache
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\lists_MarkupCompile.lref
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\MainWindow.baml
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\lists.g.resources
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\lists.Properties.Resources.resources
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\lists.csproj.GenerateResource.cache
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\lists.csproj.CoreCompileInputs.cache
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\lists.exe
+C:\Users\shivam.chauhan\source\repos\lists\lists\obj\Debug\lists.pdb
